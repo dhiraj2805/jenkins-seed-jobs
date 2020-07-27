@@ -1,6 +1,6 @@
 def PROJECT_NAME = 'roboshop'
 def CIJOBS = 'CIJOBS'
-def GIT_PREFIX = 'https://DevOps-Batches@dev.azure.com/DevOps-Batches/DevOps48/_git'
+def GIT_PREFIX = 'https://github.com/dhiraj2805'
 
 folder(PROJECT_NAME) {
   displayName(PROJECT_NAME)
